@@ -1,0 +1,30 @@
+{
+  "name": "hansik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushdown99/hansik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushdown99/hansik/issues"
+  },
+  "homepage": "https://github.com/pushdown99/hansik#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "moment": "^2.26.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "xlsx": "^0.16.2"
+  }
+}
